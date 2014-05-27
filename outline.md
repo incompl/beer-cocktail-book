@@ -13,3 +13,6 @@
 
 * history?
 * recipes?
+  * classic
+  * contemporary
+  * new
